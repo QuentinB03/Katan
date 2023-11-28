@@ -1,2 +1,2 @@
 # Katan
-Web games
+Web game
